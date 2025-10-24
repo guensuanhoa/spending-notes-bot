@@ -2,6 +2,13 @@
 
 Bot Telegram thông minh giúp ghi chép chi tiêu tự động vào Google Sheets, sử dụng AI (Google Gemini) để phân tích tin nhắn tiếng Việt.
 
+<p align="right">
+  <a href="https://github.com/guensuanhoa/spending-notes-bot" target="_blank">
+    🔗 View on GitHub
+  </a>
+</p>
+
+
 ## 🎯 Tính năng
 
 - ✅ Gửi tin nhắn chi tiêu vào Telegram, bot tự động ghi vào Google Sheets
